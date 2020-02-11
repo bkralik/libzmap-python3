@@ -14,7 +14,7 @@ Install
 --------
 
 ```bash
-git clone git@github.com:d00t-b-res/libzmap-python3.git
+git clone git@github.com:bkralik/libzmap-python3.git
 ```
 
 ```bash
@@ -24,7 +24,7 @@ cd libzmap-python3 && python3 setup.py install
 or
 
 ```bash
-sudo pip3.6 install git+https://github.com/d00t-b-res/libzmap-python3
+sudo pip3 install git+https://github.com/bkralik/libzmap-python3
 ```
 
 Use case
